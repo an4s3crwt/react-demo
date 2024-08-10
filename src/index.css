@@ -1,13 +1,88 @@
-body {
+
+/*variables predefinidas para reutilizar código*/
+
+:root {
+  --bg-color: #0c0c0c;
+  --primary-color: #0d0d0d;
+  --secondary-color: #fff;
+  --text-color: #fff;
+  --text-color-2: #fff;
+  --text-color-3: rgb(204, 0, 0);
+  --overlay-color: rgb(12 12 12 / 63%);
+}
+
+[data-theme="light"] {
+  --bg-color: #ffffff;
+  --primary-color: #ffffff;
+  --secondary-color: #000;
+  --text-color: #000;
+  --text-color-2: #000;
+  --text-color-3: rgb(204, 0, 0);
+  --overlay-color: rgb(255 255 255 / 70%);
+}
+
+
+
+/* Estilos globales */
+html, body {
+  height: 100%;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding-top: 10px;
+  overflow-x: hidden;
+  border-left: 10px solid var(--primary-color);
+    border-right: 10px solid var(--primary-color);
+
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+.ovhidden {
+  overflow-y: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text-color);
+    font-family: Marcellus;
+}
+
+p{
+  color: var(--text-color);
+}
+.text_2,
+.text_2:hover {
+    color: var(--text-color-2);
+}
+
+.color_pr {
+  color: var(--primary-color) !important;
+}
+
+.color_sec {
+  color: var(--secondary-color);
+}
+
+/* Estilos para nav_ac */
+.nav_ac {
+  padding: 5px 19px;
+  margin: 0;
+  border: unset;
+  background: var(--primary-color);
+  font-size: 1.25rem;
+  font-family: Marcellus;
+  color: var(--text-color-2);
+  line-height: 2;
+  height: 50px;
+  font-weight: bold;
+  z-index: 1000;
+  cursor: pointer;
 }
