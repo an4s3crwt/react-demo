@@ -4,7 +4,7 @@ A simple portfolio template for developers and designers built with React.
 
 
 
-Check out the live demo of the portfolio: [React Portfolio](https://an4s3crwt.github.io/react_demo/)
+Check out the live demo of the portfolio: [React Portfolio](https://an4s3crwt.github.io/react-demo/)
 
 ## Features
 
