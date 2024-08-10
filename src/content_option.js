@@ -101,52 +101,52 @@ const contactConfig = {
 
 
 const dataP = [{
-    img: "/images/1.jpg",
+    img: "./images/1.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "/images/2.jpg",
+    img: "./images/2.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/3.jpg",
+    img: "./images/3.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/4.jpg",
+    img: "./images/4.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/5.jpg",
+    img: "./images/5.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/6.jpg",
+    img: "./images/6.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/7.jpg",
+    img: "./images/7.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/8.jpg",
+    img: "./images/8.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/9.jpg",
+    img: "./images/9.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "/images/10.jpg",
+    img: "./images/10.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
