@@ -1,4 +1,15 @@
 import { FaYoutube } from "react-icons/fa";
+import img1 from "./assets/images/1.jpg";
+import img2 from "./assets/images/2.jpg";
+import img3 from "./assets/images/3.jpg";
+import img4 from "./assets/images/4.jpg";
+import img5 from "./assets/images/5.jpg";
+import img6 from "./assets/images/6.jpg";
+import img7 from "./assets/images/7.jpg";
+import img8 from "./assets/images/8.jpg";
+import img9 from "./assets/images/9.jpg";
+import img10 from "./assets/images/10.jpg";
+
 
 const logotext  = "Ana";
 const meta = {
@@ -101,52 +112,52 @@ const contactConfig = {
 
 
 const dataP = [{
-    img: "./images/1.jpg",
+    img : img1,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: "./images/2.jpg",
+    img: img2,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/3.jpg",
+    img: img3,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/4.jpg",
+    img: img4,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/5.jpg",
+    img: img5,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/6.jpg",
+    img: img6,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/7.jpg",
+    img: img7,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/8.jpg",
+    img: img8,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/9.jpg",
+    img: img9,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: "./images/10.jpg",
+    img: img10,
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
