@@ -1,14 +1,5 @@
 import { FaYoutube } from "react-icons/fa";
-import img1 from "./assets/images/1.jpg";
-import img2 from "./assets/images/2.jpg";
-import img3 from "./assets/images/3.jpg";
-import img4 from "./assets/images/4.jpg";
-import img5 from "./assets/images/5.jpg";
-import img6 from "./assets/images/6.jpg";
-import img7 from "./assets/images/7.jpg";
-import img8 from "./assets/images/8.jpg";
-import img9 from "./assets/images/9.jpg";
-import img10 from "./assets/images/10.jpg";
+
 
 
 const logotext  = "Ana";
@@ -112,52 +103,52 @@ const contactConfig = {
 
 
 const dataP = [{
-    img : img1,
+    img : "1.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
 },
 {
-    img: img2,
+    img: "2.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img3,
+    img: "3.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img4,
+    img: "4.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img5,
+    img: "5.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img6,
+    img:"6.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img7,
+    img: "7.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img8,
+    img: "8.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img9,
+    img: "9.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
 {
-    img: img10,
+    img: "10.jpg",
     description: "The wisdom of life consists in the elimination of non-essentials.",
     link: "#"
 },
