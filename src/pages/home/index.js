@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import tuImagen from "../../assets/images/po.jpg";
+import tuImagen from "../../assets/images/portada.jpg";
 import { meta, introdata } from "../../content_option";
 import "./style.css";
 import Typewriter from "typewriter-effect";
@@ -42,7 +42,7 @@ const Home = () => {
                 <div className='intro_btn_acion pb-5'>
                   <Link to="/portfolio" className='text_2'>
                     <div id='button_p' className='ac_btn btn'>
-                      My Portfolio
+                      Gallery
                       <div className='ring one'></div>
                       <div className='ring two'></div>
                       <div className='ring three'></div>
@@ -50,7 +50,7 @@ const Home = () => {
                   </Link>
                   <Link to="/contact">
                     <div id="button_h" className='ac_btn btn'>
-                      Contact me
+                      Contact
                       <div className='ring one'></div>
                       <div className='ring two'></div>
                       <div className='ring three'></div>

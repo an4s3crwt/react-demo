@@ -4,8 +4,8 @@ import { FaYoutube } from "react-icons/fa";
 
 const logotext  = "Ana";
 const meta = {
-    title: "Ana Gilabert",
-    description: "I’m Ana Gilabert _ Full stack developer"
+    title: "Ana´s Secret",
+    description: "Fashion. Minimalism. Elegance.",
 };
 
 const socialprofils = {
@@ -21,81 +21,78 @@ const socialprofils = {
 
 
 const introdata = {
-    title: "I´m Ana Gilabert ",
+    title: "Welcome to Ana's Secret",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I play Genshin Impact"
+        first: "Minimal. Chic.",
+        second: "Timeless. Modern.",
+        third: "Effortless Style."
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum.",
+    description: "Ana's Secret is a curated collection of fashion images that showcase timeless yet cutting-edge styles. Here, fashion meets simplicity and elegance.",
      
   };
 
  
   const dataabout = {
-    title: "abit about myself",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About",
+    aboutme: "Minimalist fashion gallery.",
   };
 
   const worktimeline = [{
     jobtitle: "Designer",
-    where: "Tesla",
-    date: "2020",
+    where: "Vogue",
+    date: "2021",
     
   },
   {
-    jobtitle: "Designer",
-    where: "Ford",
-    date: "2018",
+    jobtitle: "Stylist",
+    where: "Prada",
+    date: "2019",
   },
   {
-    jobtitle: "Designer",
-    where: "TikTok",
+    jobtitle: "Creative Direction",
+    where: "Massimo Dutti",
     date:"2018",
   },
 ];
 
 
 const skills = [{
-    name: "Python",
-    value: 60,
+    name: "Styling",
+    value: 95,
 
 },
 {
-    name: "Javascript",
-    value: 90,
+    name: "Photography",
+    value: 85,
 },{
-    name: "Java",
+    name: "Creative Direction",
     value: 90
 },{
-    name: "React",
-    value: 40,
+    name: "Branding",
+    value: 80,
 },
-{
-    name: "SQL",
-    value: 85,
-},
+
 ];
 
 const services = [{
-    title: "UI & UX Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Fashion Photography",
+    description: "Capturing the essence of style through the lens, focusing on minimalist and contemporary looks.",
 },
 {
-    title: "Mobile Apps",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+    title: "Styling Consultation",
+    description: "Providing expert advice on achieving a polished, yet simple and elegant appearance.",
 },
 {
-    title: "Wordpress Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-},
+    title: "Creative Direction",
+    description: "Bringing innovative and cohesive visions to life in every photoshoot and fashion project.",
+}
 ];
 
 
 const contactConfig = {
     YOUR_EMAIL: "anagilabert0@gmail.com",
     YOUR_FONE: "(+34)625-188-982",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Have any questions about our collections or want to collaborate? Reach out to us via email or phone!",
     YOUR_SERVICE_ID: "service_9bzzdm7",
     YOUR_TEMPLATE_ID: "template_r1e1y89",
     YOUR_USER_ID: "4PQZrtTz7l3CnQyrg",
